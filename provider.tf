@@ -6,7 +6,7 @@ terraform {
   required_providers {
     ibm = {
       source = "IBM-Cloud/ibm"
-      version = ">= 1.21.2"
+      version = ">= 1.35.0"
     }
     kubernetes = {
       source  = "hashicorp/kubernetes"
